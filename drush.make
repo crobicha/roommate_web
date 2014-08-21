@@ -2,14 +2,38 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.30"
+projects[drupal][version] = "7.31"
 
 ; Modules
+projects[views_bulk_operations][version] = "3.2"
+
+projects[admin_menu][version] = "3.0-rc4"
+
 projects[ctools][version] = "1.4"
 
 projects[entity][version] = "1.5"
 
 projects[entityreference][version] = "1.1"
 
+projects[entityreference_prepopulate][version] = "1.5"
+
+projects[features][version] = "2.2"
+
+projects[panels][version] = "3.4"
+
+projects[message][version] = "1.9"
+
+projects[message_notify][version] = "2.5"
+
 projects[og][version] = "2.7"
+
+projects[og_extras][version] = "1.1"
+
+projects[rules][version] = "2.7"
+
+projects[strongarm][version] = "2.0"
+
+projects[token][version] = "1.5"
+
+projects[views][version] = "3.8"
 
